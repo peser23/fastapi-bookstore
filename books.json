@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Great Gasby",
+        "price": 25.99,
+        "book_id": "c1ce5e12a0254ad7ab848bec8888d8bd",
+        "genre": "non-fiction"
+    },
+    {
+        "name": "Harry Potter",
+        "price": 5.99,
+        "book_id": "0f56d56ea26a4cea90b8f82967cad19a",
+        "genre": "fiction"
+    }
+]
